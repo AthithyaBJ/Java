@@ -1,7 +1,7 @@
 public class FirstApp {
+	public static void main(String args[]) {
+		System.out.println("I can DO");
+		System.out.println("Anything and Eveything");
+	}
 
-   public staic void main (string[] args){
-       System.out.println("I am");
-       System.out.println("the king of the world");
-          }
 }
